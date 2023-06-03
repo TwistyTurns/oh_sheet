@@ -19,6 +19,16 @@
     <string name="cellnumber_label">Cell Number</string>
     <string name="create_timesheet_descrip_label">Description</string>
     <string name="categories_label">Categories: </string>
+    <string name="date_label">Date (YYYY-MM-DD)</string>
+    <string name="start_time_label">Start Time</string>
+    <string name="end_time_label">End Time</string>
+    <string name="capture_photo_label">Capture Photo</string>
+    <string name="minimum_time_goal_label">Minimum Time Goal</string>
+    <string name="maximum_time_goal_label">Maximum Time Goal</string>
+    <string name="receive_our_smart_label">Receive our SmartNotifications</string>
+    <string name="all_done_label">All Done :)</string>
+    <string name="sheets_label">Sheets</string>
+    <string name="active_label">Active:  </string>
 
 
     <string-array name="Timesheet_categories">
