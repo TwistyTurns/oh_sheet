@@ -11,7 +11,19 @@
     <string name="verify_nocode_label">No code? Let’s try again.</string>
     <string name="sign_in_label">Sign In</string>
     <string name="username_label">Username</string>
-    <string name="password_input_label">Password</string>
+    <string name="password_input_label">Password: </string>
     <string name="remember_me_label">Remember Me?</string>
     <string name="lets_go_btn_label">Let\'s Go!!!</string>
+    <string name="signUp_label">Sign Up</string>
+    <string name="confirm_password_label">Confirm Password: </string>
+    <string name="cellnumber_label">Cell Number</string>
+    <string name="create_timesheet_descrip_label">Description</string>
+    <string name="categories_label">Categories: </string>
+
+
+    <string-array name="Timesheet_categories">
+        <item>Work</item>
+        <item>School</item>
+        <item>Gym</item>
+    </string-array>
 </resources>
